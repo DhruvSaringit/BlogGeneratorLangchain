@@ -1,0 +1,9 @@
+pip
+wheel
+huggingface_hub
+sentence-transformers
+uvicorn
+ctransformers
+langchain
+python-box
+streamlit
